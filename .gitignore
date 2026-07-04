@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Conda
+.conda/
+
+# Runtime/generated data
+data/
+
+# Matplotlib cache
+.matplotlib/
+
+# OS files
+.DS_Store
+Thumbs.db
